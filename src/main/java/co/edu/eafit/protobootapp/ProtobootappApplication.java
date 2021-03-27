@@ -21,7 +21,7 @@ public class ProtobootappApplication {
     //Se ejecuta con http://localhost:8080/
     @GetMapping("/")
     public String index() {
-        return String.format("Bienvenido! Consulte el modo de uso de esta aplicación con el administrador. jose, papi, xdxd");
+        return String.format("Hablame mi fa fai, que quieres saber?, salu2");
     }    
 
 //Se ejecuta con http://localhost:8080/hola o http://localhost:8080/hola?nombre=John
